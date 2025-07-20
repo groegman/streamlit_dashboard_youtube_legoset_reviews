@@ -31,10 +31,11 @@ This project automatically:
 
 ```mermaid
 graph TD
-    A[📥 LEGO Set List (CSV)] --> B[🔎 YouTube Search via yt-dlp]
-    B --> C[💾 Store Metadata + Transcripts in SQLite]
-    C --> D[🤖 Local LLM Analysis via LangChain & Ollama]
-    D --> E[📊 Streamlit Dashboard]
+    A[LEGO Set List (CSV)] --> B[YouTube Search via yt-dlp]
+    B --> C[Store Metadata + Transcripts in SQLite]
+    C --> D[LLM Analysis via LangChain & Ollama]
+    D --> E[Streamlit Dashboard]
+
 
 
 🛠️ How to Use (Local Setup)
