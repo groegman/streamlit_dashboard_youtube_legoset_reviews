@@ -11,7 +11,7 @@ This project automatically:
 1. **Finds LEGO review videos on YouTube** using the set number
 2. **Extracts & stores video transcripts**
 3. **Analyzes sentiment & detects sponsorships** using a local LLM (e.g. LLaMA 3 via Ollama)
-4. **Visualizes trends and insights** in a Streamlit dashboard ([LIVE-DEMO](https://groegman.com/lego_dashboard/)
+4. **Visualizes trends and insights** in a Streamlit dashboard ([LIVE-DEMO](https://groegman.com/lego_dashboard/))
 
 ## Example Dashboard
 
