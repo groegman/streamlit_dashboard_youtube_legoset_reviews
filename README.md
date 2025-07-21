@@ -33,10 +33,10 @@ This project automatically:
 
 ## 🔁 Workflow Overview
 
-LEGO Set List (CSV) --> YouTube Search via yt-dlp
-Store Metadata + Transcripts in SQLite
-LLM Analysis via LangChain & Ollama
-Streamlit Dashboard
+1. LEGO Set List (CSV) --> YouTube Search via yt-dlp
+2. Store Metadata + Transcripts in SQLite
+3. LLM Analysis via LangChain & Ollama
+4. Streamlit Dashboard
 
 
 
